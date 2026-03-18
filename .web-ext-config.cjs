@@ -10,6 +10,7 @@ module.exports = {
         ".gitignore",
         "build",
         "assets/chrome.png",
-        "assets/firefox.png"
+        "assets/firefox.png",
+        "assets/imgbuild.sh"
     ]
 };
